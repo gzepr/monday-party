@@ -474,9 +474,7 @@ Copyright: Eric Humbert & cheeri
 
 ## Flyers
 <a href='https://photos.google.com/share/AF1QipN9k0bsNbkzjoWRg8IGQakRvapgOqTxXBzQgskmynhF4s0Dl_QpJ_ENkGP4ah4VqQ?key=VGNzRXQ1eUFCZ3dRUkdkNndVZ1RVbEtlczNDTmNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fkG46U6NEy8aLot7IijuOhU36qi9o7DC8y71xVWrXcYXg8TqQROfZDGSfoo1iwnXagyTdHfhL61X_0GFRqGNg-NEewn-yzLCNmgMkeFboJlGKvmUHqGqvZPGMvs3FinsZZGPHGU' /></a>
-## Photos pour plus tard
-Copyright: Eric Humbert
-<a href='https://photos.google.com/share/AF1QipNfag-xoQ6yJUQhLPGAT5OA2ekoxrbjpO8ThtYDlTF5MDC21Cb-DfjPZxQjMYGydg?key=T0hldjRlVUZIOS1Id3BlQ3U4bE9wMnp3eEh1NldB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/Nd-L1rYsB-bhhbh1VI4AVE__AlhTDHdoqoS-b3HtjdAcEwb19rKFYKHNg-0MRXAhgpNjDdmKP8343eAPtjTgmaEaWAzY7NXX6GfcY2eZ3BGIEfO6pVUKGrE_D004ufQdmAPKH5o' /></a>
+
 
 
 
