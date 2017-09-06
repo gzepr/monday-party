@@ -2,7 +2,7 @@
 
 
 
-| [Playlists](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
+| [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
 | --- | --- | --- |
 
 
