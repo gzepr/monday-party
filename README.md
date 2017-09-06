@@ -6,9 +6,11 @@
         }
 </style>
 
-| [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
+
+| [Playlists](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
 | --- | --- | --- |
 {: .tablelines}
+
 
 ## <a name="lplaylist"></a>Playlist (demos)
 
