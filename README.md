@@ -4,7 +4,7 @@
 
 | [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
 
-| --- | --- | --- |
+
 
 
 ## <a name="lplaylist"></a>Playlist (demos)
