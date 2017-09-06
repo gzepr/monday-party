@@ -1,9 +1,14 @@
 # Monday Party
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 | [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
 | --- | --- | --- |
-
+{: .tablelines}
 
 ## <a name="lplaylist"></a>Playlist (demos)
 
