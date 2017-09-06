@@ -1,13 +1,17 @@
 # Monday Party
-Songs by Eric Humbert
-## Playlist (demos)
+
+[Playlist](#lplaylist)
+[Songs](#lsongs)
+[Videos](#lvideos)
+
+## <a name="lplaylist"></a>Playlist (demos)
 
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 
 [Videos](#mvideos)
 
-## Songs
+## <a name="lsongs"></a>Songs
 
 
 - [Lottery winner](#lottery)
@@ -468,7 +472,7 @@ Une interrogation sur la meilleure façon de vivre sa vie, entre action et conte
 ```
 
 
-# <a name="mvideos"></a>Videos
+# <a name="lvideos"></a>Videos
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1719953054688711%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
