@@ -1,6 +1,6 @@
 
 
-| [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
+| [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) | [Graphics](#lgraphics) |
 
 
 
@@ -13,11 +13,10 @@ iframe {
 }
 </style>
 
-<iframe width="560" height="660" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="560" height="660" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 ## <a name="lsongs"></a>Songs
-Copyright: Eric Humbert
 
 - [Lottery winner](#lottery)
 - [If you're not here](#if)
@@ -35,7 +34,7 @@ Copyright: Eric Humbert
 
 ## <a name="lottery"></a>Lottery winner
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color= 00ffbc&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 ### Lyrics
@@ -89,7 +88,7 @@ Copyright: Eric Humbert
 
 ## <a name="if"></a>If you're not here
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117855603&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117855603&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 
@@ -130,7 +129,7 @@ Copyright: Eric Humbert
 
 ## <a name="lala"></a>Floating around 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131667378&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131667378&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### Lyrics
 
@@ -163,7 +162,7 @@ Copyright: Eric Humbert
 
 ## <a name="when"></a>When
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265488904&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265488904&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### Lyrics
 
@@ -213,7 +212,7 @@ Copyright: Eric Humbert
 
 ## <a name="asleep"></a>Asleep 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265489117&amp;color= 00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265489117&amp;color= 00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 ### Lyrics
@@ -251,7 +250,7 @@ Copyright: Eric Humbert
 
 ## <a name="girl"></a>A Girl from the Islands
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270297599&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270297599&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 
@@ -304,7 +303,7 @@ Copyright: Eric Humbert
 
 ## <a name="sp"></a>Self-preservation
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44253045&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44253045&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 
@@ -371,7 +370,7 @@ Copyright: Eric Humbert
 
 
 ## <a name="people"></a>People we don't know
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235895922&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235895922&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### Lyrics
 
@@ -414,7 +413,7 @@ Copyright: Eric Humbert
 ```
 
 ## <a name="whish"></a>Wish you had time
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333013871&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333013871&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 
@@ -462,7 +461,7 @@ Copyright: Eric Humbert
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1776126589071357%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-## Graphics
+## <a name="lgraphics"></a>Graphics
 
 ### Covers
 <style>
