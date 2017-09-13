@@ -465,7 +465,12 @@ Copyright: Eric Humbert
 ## Graphics
 
 ### Covers
-
+<style>
+img {
+  display:block;
+  margin:auto;
+}
+</style>
 <a href='https://photos.google.com/share/AF1QipMjWaK_nAGYLokzN4bJTzRUmi-RkM3nIP5SvHphJt5mnLNAvLtDVBnH2oXDS16-zg?key=MDljZ2RCcGZqRGIwaEgwLVQwRmlSN2UxbWJkQkNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/kAspbEnAe6JjPa1nIH5qEF6t9iZ_1CJoW1Oi6HIWHayTverxWVJP4lFlkA_hu-y5I09vdnPQH_BTT-OLj0_emYS3m_H01smiYHrP8YmDpJ-al6Tne0axParZS4H6LSTaUvrB9Kg' /></a>
 
 ### Flyers
