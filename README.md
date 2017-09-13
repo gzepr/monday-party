@@ -3,7 +3,7 @@
 | [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) | [Graphics](#lgraphics) |
 
 
-</br>
+<br/>
 
 ## <a name="lplaylist"></a>Playlist (demos)
 <style>
@@ -13,10 +13,10 @@ iframe {
 }
 </style>
 
-</br></br></br></br>
+<br/></br/><br/><br/>
 <iframe width="560" height="660" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffbc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 
-</br></br>
+<br/><br/>
 
 ## <a name="lsongs"></a>Songs
 
