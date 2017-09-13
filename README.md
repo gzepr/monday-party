@@ -13,7 +13,7 @@ iframe {
 }
 </style>
 
-<iframe width="450" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="560" height="660" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 ## <a name="lsongs"></a>Songs
@@ -474,7 +474,7 @@ img {
 <a href='https://photos.google.com/share/AF1QipMjWaK_nAGYLokzN4bJTzRUmi-RkM3nIP5SvHphJt5mnLNAvLtDVBnH2oXDS16-zg?key=MDljZ2RCcGZqRGIwaEgwLVQwRmlSN2UxbWJkQkNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/kAspbEnAe6JjPa1nIH5qEF6t9iZ_1CJoW1Oi6HIWHayTverxWVJP4lFlkA_hu-y5I09vdnPQH_BTT-OLj0_emYS3m_H01smiYHrP8YmDpJ-al6Tne0axParZS4H6LSTaUvrB9Kg' /></a>
 
 ### Flyers
-<a href='https://photos.google.com/share/AF1QipN9k0bsNbkzjoWRg8IGQakRvapgOqTxXBzQgskmynhF4s0Dl_QpJ_ENkGP4ah4VqQ?key=VGNzRXQ1eUFCZ3dRUkdkNndVZ1RVbEtlczNDTmNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fkG46U6NEy8aLot7IijuOhU36qi9o7DC8y71xVWrXcYXg8TqQROfZDGSfoo1iwnXagyTdHfhL61X_0GFRqGNg-NEewn-yzLCNmgMkeFboJlGKvmUHqGqvZPGMvs3FinsZZGPHGU' /></a>
+<a href='https://photos.app.goo.gl/2eidTiVR9LOdcPSt1'><img src='https://lh3.googleusercontent.com/ntswuhbC6USItWLSNkbewkHOP8jM3Q1iEJ_aumcPYCp_h_ilw_U1664MtislTMIO32NvioDYhSQCjU9hhYdkVFbcySKPbBp96xTG1tvTN1i1ghvOIDCarbPXQ93soeSU2dvZogjy5iFUnhgjc5sOHfHuzG6T_Z-NLIFDGbXXhAfUUAOzaGfFathD4FliU-C-GMZe5EqfjCvW5-VNSzSaBvxOTb2QYyFQ1NJSAoYySwd5_ZqFVJrfjG-0izVyM3sy-V5J8k3YcaSFh9mLT1KCVebbbbpPOfm-CUS9biCYbAhHS11WhGBsIEQ4WEIoMC7Q6yXYFXnBleJyv32TqAmfiF-PoD7P5i773J5ez7sbvA5t7c9FvyNdjPvb9rtMqseHrC0IglKOAgOvEuO1LIc-BWEOP1d1sbkYtifoneJDpFUnA_yOQwcA0lqAYK4WsSdEjXnRVXETK79ZmmsJ2_oBKQx96b651rnXzv4uaVc88xPoLNOM8UrT8h4ooqMFOLhuuzxxjbY9BI55isvW7iTaa87B_x5LM1Mf3VVIl7KhPh1M9ZbeX_QiPxas4vEj_s_paVG8zavbTsmVxZ3CGW8UEMPEnQuxsJigwA8-gMlDIHFCZYISLhPPCYfUs4gVKTa_sFpBbVhWqtbLTPRlSrNnCo9M92ZfU7sglbCM=w2450-h1198-no' /></a>
 
 
 
