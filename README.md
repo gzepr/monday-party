@@ -119,9 +119,9 @@ iframe {
 	But I just want to yell
 	That I love you
 	
-	And if you’re not here
+	Even if you’re not here
 	I’m still you.
-	If you’re not here
+	Even if you’re not here
 	I’m still you.
 
 ```
