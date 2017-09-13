@@ -36,7 +36,6 @@ iframe {
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color= 00ffbc&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
 ### Lyrics
 
 ```
@@ -317,7 +316,7 @@ iframe {
 	It was born with me.
 
 	My world 's filled with men,
-	Whose behavior seem so natural,
+	Whose behavior seems so natural,
 	Cause it's the one 
 	I have always seen. 
 
@@ -340,6 +339,8 @@ iframe {
 
 ## <a name="ent"></a>Entertained
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44253041&amp;color= 00ffbc&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 ### Lyrics
 
@@ -357,7 +358,7 @@ iframe {
     
     Everyday work makes me busy
     Looking for sex makes me busy
-    News of the wold make me busy
+    News of the world make me busy
     It's seems that life is easy
 
     I'm entertained, and hours
