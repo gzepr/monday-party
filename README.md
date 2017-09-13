@@ -1,5 +1,3 @@
-# Monday Party
-
 
 
 | [Playlist](#lplaylist) | [Songs](#lsongs) | [Videos](#lvideos) |
@@ -14,7 +12,7 @@
 
 
 ## <a name="lsongs"></a>Songs
-
+Copyright: Eric Humbert
 
 - [Lottery winner](#lottery)
 - [If you're not here](#if)
@@ -34,18 +32,11 @@
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson sur la chance, facteur le plus determinant dans nos vies. Le personnage de cette chanson est un mec qui a eu de la chance, comme nous tous plus ou moins, mais qui l’a oublié.
 
-Il se sent fier de ce qu’il a, fier de ce qu’il est, alors qu’il n’y est justement pour pour pas grand chose. Fier de ses gènes, de son milieu, de là où il est né. Il peut se sentir supérieur aux autres, ou ne les comprend pas, alors que les autres n’ont juste pas eu la même chance. C'est comme s'il était fier d’avoir gagné au Loto. 
-
-Il pense que l’expression « on a que ce qu’on mérite » est vraie, alors que la plupart du temps on a surtout ce que l’on à la chance ou la malchance d’avoir.
-
-
-### Paroles
+### Lyrics
 
 ```
 
-	
 	I’m proud of the colour of my eyes
 	I’m proud of all the stuff I buy
 	I’m proud of my country
@@ -95,10 +86,9 @@ Il pense que l’expression « on a que ce qu’on mérite » est vraie, alors q
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117855603&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson sur le deuil, le manque, l'amour crié dans le vide.
 
 
-### Paroles
+### Lyrics
 
 
 ```
@@ -137,9 +127,7 @@ Une chanson sur le deuil, le manque, l'amour crié dans le vide.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131667378&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre un garçon seul qui parle aux nuages et une fille seule qui parle aux arbres. Cette rencontre change la musique de leur vie. 
-
-### Paroles
+### Lyrics
 
 ```
 
@@ -161,7 +149,7 @@ Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre 
 	They're talking to the stars
 	Floating around
 	in outer space
-	they're trully living
+	they're truly living
 	
 	
 ```
@@ -172,13 +160,7 @@ Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265488904&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson d'humour noir, qui pose joyeusement la question: 
-
-Quand va t’on creuver ?
-
-Et qui s’amuse du fait que des gens meurent en permanence mais qu’heureusement la plupart du temps on s’en fout !
-
-### Paroles
+### Lyrics
 
 ```
 
@@ -228,9 +210,8 @@ Et qui s’amuse du fait que des gens meurent en permanence mais qu’heureuseme
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265489117&amp;color= 00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson d’amour. Le réconfort que l'on peut avoir quand la nuit, pris d'angoisses, on contemple la personne que l’on aime dans son sommeil. Elle dort paisiblement et tout le reste devient sans importance. 
 
-### Paroles
+### Lyrics
 
 ```
 
@@ -267,9 +248,9 @@ Une chanson d’amour. Le réconfort que l'on peut avoir quand la nuit, pris d'a
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270297599&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand paris avec son python. Statisticien chez IBM il se sent très seul. Son python ramené d'Afrique parce que ça donne des perspectives s'appelle gros câlin , car quand il s'enroule autour de lui, il sent comme 2 longs bras qui l'étreignent. Il est persuadé qu'il va épouser un fille de Guadeloupe avec qui il reste silencieux tout les matins, dans l'ascenseur de son bureau. 
 
-### Paroles
+
+### Lyrics
 
 ```
 	
@@ -320,10 +301,9 @@ Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand pari
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44253045&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Sur l’instinct de conservation. Qu’est-ce qu’on serait capable de faire si notre entourage civilisé, résultat de millénaire de civilisation venait à s’écrouler , par exemple guerre civile.
-On pense trop que la paix est acquise, alors que la paix ça se travaille tous les jours.
 
-### Paroles
+
+### Lyrics
 
 ```
 
@@ -356,9 +336,8 @@ On pense trop que la paix est acquise, alors que la paix ça se travaille tous l
 
 ## <a name="ent"></a>Entertained
 
-Sur le divertissement.
 
-### Paroles
+### Lyrics
 
 ```
 
@@ -389,10 +368,7 @@ Sur le divertissement.
 ## <a name="people"></a>People we don't know
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235895922&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
-
-
-### Paroles
+### Lyrics
 
 
 ```
@@ -435,10 +411,9 @@ Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de 
 ## <a name="whish"></a>Wish you had time
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333013871&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Une interrogation sur la meilleure façon de vivre sa vie, entre action et contemplation. 
 
 
-### Paroles
+### Lyrics
 
 
 ```
@@ -482,10 +457,10 @@ Une interrogation sur la meilleure façon de vivre sa vie, entre action et conte
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmondaypartymusic%2Fvideos%2F1776126589071357%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-# Graphisme
-## Pochettes
-Copyright: Eric Humbert & cheeri
- 
+## Graphics
+
+## Covers
+
 <a href='https://photos.google.com/share/AF1QipMjWaK_nAGYLokzN4bJTzRUmi-RkM3nIP5SvHphJt5mnLNAvLtDVBnH2oXDS16-zg?key=MDljZ2RCcGZqRGIwaEgwLVQwRmlSN2UxbWJkQkNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/kAspbEnAe6JjPa1nIH5qEF6t9iZ_1CJoW1Oi6HIWHayTverxWVJP4lFlkA_hu-y5I09vdnPQH_BTT-OLj0_emYS3m_H01smiYHrP8YmDpJ-al6Tne0axParZS4H6LSTaUvrB9Kg' /></a>
 
 ## Flyers
