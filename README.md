@@ -101,9 +101,9 @@ iframe {
 	Once i met an old man planting a tree in it's garden,
 	and i wondered why?
 	He said he'd always liked to live his life
-	as if he would never die eventually
+	as if he would never die eventually!
 	That was a surpise, i thought:
-	"How interesting, I use to do the other other way around:
+	"How interesting, I use to do the other way around:
 	I always live as if I'll die tomorrow!"
 	
 	You wish you had time to do more things
@@ -111,7 +111,7 @@ iframe {
 	
 	Should I jump in ? add my own melody ?
 	Or should I just sit and enjoy the music ?
-	Is it best to be bird fighting gravity ?
+	Is it best to be a bird fighting gravity ?
 	Or a snake feeling earth all along itds body ?
 
 ```
